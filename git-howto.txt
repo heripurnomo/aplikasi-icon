@@ -5,4 +5,6 @@
 2. Membuat Ingnore file ( supaya tidak bisa dicommit file2 yang tidak perlu misal .class dan .jar karena hanya kusus source code aja)
 	- buat file dengan extension .gitignore ( buat file di wondows .txt kemudian udah dengan command promt rename gitignore.txt .gitignore)
 
-Selamatkan dunia dari angkara murka Maliki Mahfud	
+Selamatkan dunia dari angkara murka Maliki Mahfud
+
+Kapan Shalatnya ini...?
